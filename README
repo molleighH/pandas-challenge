@@ -1,1 +1,17 @@
+# PyCitySchools Analysis
+
+Welcome to the PyCitySchools analysis project! This repository contains a comprehensive data analysis of a city's school district, focusing on standardized test scores and school performance metrics. As the newly appointed Chief Data Scientist for the district, I've conducted a detailed analysis to help the school board and mayor make informed decisions regarding future school budgets and priorities.
+
+## Project Overview
+
+In this project, I utilized Python's powerful data manipulation library, Pandas, within a Jupyter Notebook environment to analyze and visualize key metrics across the district. The analysis focuses on aggregating data from various schools and showcasing trends that reveal the overall performance of the district and individual schools.
+
+## Repository Structure
+
+- **`PyCitySchools/`**
+  - **`PyCitySchools.ipynb`**: The main Jupyter Notebook containing the analysis and visualizations.
+  - **`Resources/`**: Contains the CSV files used for the analysis, including student test scores and school data.
+  - **`analysis/`**: Includes any output files, such as charts or summary tables generated during the analysis.
+
+- **`README.md`**: This file, providing an overview and detailed instructions for the project
 
