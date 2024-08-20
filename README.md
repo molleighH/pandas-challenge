@@ -51,9 +51,3 @@ This analysis involved aggregating student data, including math and reading scor
   - **`Resources/`**: Contains input data files, including student scores and school data.
   - **`Output/`**: Generated outputs such as charts, tables, and summary files.
   
-## How to Use This Repository
-
-1. **Clone the Repository**: 
-   ```bash
-   git clone https://github.com/yourusername/pandas-challenge.git
-   cd pandas-challenge/PyCitySchools
