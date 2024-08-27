@@ -44,10 +44,5 @@ This analysis involved aggregating student data, including math and reading scor
 - **Spending vs. Performance**: Schools with moderate spending per student ($630-$645) tend to perform better in both math and reading compared to those with the highest or lowest spending, suggesting diminishing returns at extreme ends of the spending spectrum.
 - **School Size Influence**: Medium-sized schools (1000-2000 students) generally show higher overall passing rates, indicating that these schools might benefit from an optimal balance of resources and student engagement.
   
-## Repository Structure
 
-- **`PyCitySchools/`**: Main directory containing all project files.
-  - **`PyCitySchools.ipynb`**: Jupyter Notebook with the full analysis.
-  - **`Resources/`**: Contains input data files, including student scores and school data.
-  - **`Output/`**: Generated outputs such as charts, tables, and summary files.
   
